@@ -18,6 +18,7 @@ https://user-images.githubusercontent.com/39979526/154691415-c567333b-5771-45ad-
 
 ### Project 2: Virtual Keyboard
 Using the virtual keyboard, type with your fingers.
+![Reference](https://www.youtube.com/watch?v=jzXZVFqEE2I&t=2s)
 
 
 https://user-images.githubusercontent.com/39979526/154691768-4befcf1a-6195-48e2-9aa2-d2d52f74a52d.mp4
