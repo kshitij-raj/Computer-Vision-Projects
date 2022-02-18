@@ -12,8 +12,8 @@ python {file_name}.py
 
 ### Project 1: Air Music Player 
 Play the music tune by moving your fingers.
-![Text](Projects_Recording_Videos/Air_Music_Player.mp4)
+https://user-images.githubusercontent.com/39979526/154691415-c567333b-5771-45ad-af1a-fb947c1b7d57.mp4
 
 ### Project 2: Virtual Keyboard
 Using the virtual keyboard, type with your fingers.
-![Text](/Projects_Recording_Videos/Virtual_Keyboard.mp4)
+https://user-images.githubusercontent.com/39979526/154691768-4befcf1a-6195-48e2-9aa2-d2d52f74a52d.mp4
